@@ -1,0 +1,14 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "JavaScript example starter project",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": ["javascript", "starter"]
+}
